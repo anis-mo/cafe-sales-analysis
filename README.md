@@ -88,7 +88,7 @@ The Dashboard allows users to filter the data and dynamically explore cafe sales
 
 ## Dashboard Preview
 
-![Dashboard Cafe Sales](images/Cafe-Dashboard.png)
+![Dashboard Cafe Sales](Cafe-Dashboard.png)
 ## 🛠️Tools Used
 
 - Microsoft Excel
