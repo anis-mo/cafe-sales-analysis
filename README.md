@@ -36,13 +36,13 @@ The dataset contains transaction-level information about cafe sales:
 
 ## 🧹Data Cleaning
 
-- Cheked for missing values
+- Checked for missing values
 - Handle "ERROR" and unknown values
 - Standardized categorical values
 - Converted dates to the correct date format
 - Ensured numerical columns were stored as numbers 
 - Formatted "Transaction_ID" as text
-- Cheked for duplicate
+- Checked for duplicate
 - Converted the dataset into a Excel Table
 
 ## 🔎Analysis Questions
@@ -88,7 +88,7 @@ The Dashboard allows users to filter the data and dynamically explore cafe sales
 
 ## Dashboard Preview
 
-![Dashboard Cafe Sales](images/Cafe-Dashboard.png)
+![Dashboard Cafe Sales](Cafe-Dashboard.png)
 ## 🛠️Tools Used
 
 - Microsoft Excel
@@ -104,7 +104,7 @@ The Dashboard allows users to filter the data and dynamically explore cafe sales
 
 - Analyzed total sales across different items and locations.
 - Identified top-selling items based on sales performance.
-- Examined monthly salrs trends to understand how sales change over time.
+- Examined monthly salaries trends to understand how sales change over time.
 - Explored the distribution of transactions across payment methods.
 - Compared the average transaction value across different payment methods.
 - Developed an interactive excel dashboard using PivotTables, PivotCharts, results easier to explore.
