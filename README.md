@@ -111,6 +111,16 @@ The Dashboard allows users to filter the data and dynamically explore cafe sales
 
 ---
 
+📚 Data Source & License
+
+- Dataset: Cafe Sales Dataset
+- Source: Kaggle
+- License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+The dataset is provided under the CC BY-SA 4.0 license. It may be shared and adapted, provided that appropriate credit is given, a link to the license is included, and any adaptations are distributed under the same license.
+
+Dataset Link: "View Dataset on Kaggle" (https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training)
+
 ## ✔️Conclusion 
 
 This project used Microsoft Excel to analyze cafe sales data and build an interactive dashboard. The analysis covered sales performance by item and location, monthly sales trend, payment methods, and average transaction values.
